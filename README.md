@@ -1,2 +1,2 @@
 # iris-data-with-classification-decision-tree
-تعتمد أشجار القرار على نوع المتغير المستهدف ، فعندما يكون هذا المتغير فئوي تسمى شجرة القرار شجرة قرار فئوية،وعادة ما يتم استخدام أشجار التصنيف عندما يكون متغير الهدف فئوياًويوضح الكود المرفق استخدام أشجار التصنيف في تصنيف مجموعة من النباتات
+Decision trees depend on the type of target variable. When this variable is categorical, the decision tree is called a categorical decision tree. Typically, classification trees are used when the target variable is categorical. The attached code explains the use of classification trees in the classification of a group of plants.
